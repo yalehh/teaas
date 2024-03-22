@@ -2,5 +2,6 @@
 ---
 version: 1.0.0
 codeOwners:
+  - '0x2982aeb0d6D3FCFC832aD5fB0D6d185D826305bA'
   - '0x4c4C9b42f4C70947dD7d04a5be321EE5Fc9A7c33'
 quorum: 1
